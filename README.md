@@ -68,6 +68,7 @@ Detailed dataset documentation can be found in the [`/data_docs`](./data_docs) f
    - Incoming/outgoing routes and airline distribution
 
 Each dashboard includes navigation buttons and visual tooltips where relevant.
+![D_Index](https://github.com/user-attachments/assets/1b5ec936-d38c-46c9-ae52-0a1447af60df)
 
 ---
 
